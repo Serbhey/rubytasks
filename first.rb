@@ -1,6 +1,6 @@
 class Item
 def initialize weight, price
-  @weight=1000
+  @weight=10000
   @price=4300
 
 end
